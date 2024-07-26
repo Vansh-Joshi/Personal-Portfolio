@@ -6,8 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build",
-    "startlive": "live-server"
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
@@ -21,8 +20,8 @@
   },
   "homepage": "https://github.com/cobiwave/simplefolio#readme",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.12.0",
-    "parcel": "^2.12.0",
+    "@parcel/transformer-sass": "^2.8.2",
+    "parcel": "^2.8.2",
     "prettier": "^2.8.1"
   },
   "dependencies": {
