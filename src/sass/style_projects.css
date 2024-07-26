@@ -6,3 +6,12 @@ ul li{
 .working{
     text-align: center;
 }
+
+.project-wrapper__image{
+    filter:grayscale(100%);
+}
+
+.project-wrapper__image:hover{
+    filter:none;
+}
+
