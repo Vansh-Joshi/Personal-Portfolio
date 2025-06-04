@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/(.*)",
-        "destination": "https://vansh-portfolio-tau.vercel.app/$1",
+        "destination": "https://vansh-portfolio-tau.vercel.app/",
         "permanent": true
       }
     ]
